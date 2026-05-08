@@ -108,7 +108,7 @@ The confusion matrix helps visualize:
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-link>
+git clone <>
 ```
 
 ### 2. Install Dependencies
@@ -143,4 +143,4 @@ Vanshika Sharma
 
 ## Live Demo
 
-Add deployed Streamlit link here after deployment.
+https://spam-email-classifier-8zm2pxgwy9astqqmip93rr.streamlit.app/
